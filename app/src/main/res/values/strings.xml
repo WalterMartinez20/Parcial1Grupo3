@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Parcial1Grupo3</string>
+
+    <string name="boton">semana2</string>
+    <string name="titulo">Controles Basicos</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">Enviar Datos</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="nombre2">Tu nombre es</string>
+    <string name="edad2">Tu edad es</string>
+    <string name="estado">Eres mayor de edad</string>
+
+
+    <string name="btTi">Semana 3</string>
+    <string name="auto1">Nissan</string>
+    <string name="auto2">Bugatti</string>
+    <string name="auto3">Lambo</string>
+    <string name="auto4">Camaro</string>
+    <string name="aut1frag">Nissan GTR</string>
+    <string name="aut2frag">Bugatti Veyron</string>
+    <string name="aut3frag">Lamborghini Aventador Coupé</string>
+    <string name="aut4frag">Camaro SS</string>
+
+
+    <string name="se4">Semana 4</string>
+    <string name="Sensor">Sensor de proximidad</string>
+    <string name="pos1">Posicion normal</string>
+    <string name="acelerometro">Sensor Acelerometro</string>
+    <string name="sonido">Sonido 0</string>
+    <string name="btAcel">Ir a sensor acelerometro</string>
+    <string name="btProx">Ir a sensor proximidad</string>
+
+
+    <string name="se5">Semana 5</string>
+    <string name="acer">Acerca de</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="parar">DETENER</string>
+    <string name="btIrcam">Ir a camara</string>
+    <string name="btIrReprVi">Ir a reproductor de video</string>
+    <string name="tituloRep">Reproductor de video</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/tvTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30sp"
+        android:text="@string/titulo"
+        android:textSize="24sp" />
+    <EditText
+        android:id="@+id/etNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingTop="20sp"
+        android:hint="@string/nombre"
+        />
+    <EditText
+        android:id="@+id/etEdad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingTop="20sp"
+        android:hint="@string/edad" />
+    <Button
+        android:id="@+id/btEnviarDatos2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30sp"
+        android:text="@string/enviarDatos" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="437dp"
+        app:srcCompat="@drawable/dibujos_animados_vuelta_al_concepto_colegio_estudiantes_alegres_33099_361__1_" />
+
+    <Button
+        android:id="@+id/btAtras"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Atras"
+        android:textSize="20sp" />
+
+</LinearLayout>
